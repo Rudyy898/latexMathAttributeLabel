@@ -1,0 +1,2 @@
+# latexMathAttributeLabel
+用iosMath结合TYAttributedLabel。解析完整的数学题目字符串，中的公式或者图片。
