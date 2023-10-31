@@ -1,0 +1,6 @@
+framework module MathEditor {
+  umbrella header "MathEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}

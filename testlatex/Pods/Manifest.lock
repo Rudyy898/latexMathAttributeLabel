@@ -1,0 +1,29 @@
+PODS:
+  - iosMath (0.9.4)
+  - Masonry (1.1.0)
+  - MathEditor (0.3.0):
+    - iosMath (~> 0.9.3)
+  - TYAttributedLabel (2.6.9)
+
+DEPENDENCIES:
+  - iosMath
+  - Masonry
+  - MathEditor
+  - TYAttributedLabel
+
+SPEC REPOS:
+  trunk:
+    - iosMath
+    - Masonry
+    - MathEditor
+    - TYAttributedLabel
+
+SPEC CHECKSUMS:
+  iosMath: f7a6cbadf9d836d2149c2a84c435b1effc244cba
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MathEditor: 0571991a0850213891aead3c2aae6d4b8faa7ced
+  TYAttributedLabel: 566d7503cf9e5460f409bb5d4c14690d25088972
+
+PODFILE CHECKSUM: 24625d6b2c98977a03dfd848cb25846bb7e8fabd
+
+COCOAPODS: 1.13.0
